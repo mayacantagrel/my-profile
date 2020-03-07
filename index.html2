@@ -1,0 +1,94 @@
+<html>
+  <head>
+    <title>Maya Cantagrel</title>
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,700|Roboto:300,400,500,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/323336570d.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
+
+    <div class="container">
+      <div class="card-white" id="introduction">
+        <h1>Maya Cantagrel</h1>
+        <img src="https://media-exp1.licdn.com/dms/image/C5103AQENsibfEJn06w/profile-displayphoto-shrink_200_200/0?e=1588809600&v=beta&t=kVezj6SC30nGr5pnTKq69nk47pI_6W96h7gfEmA9_2Q" class="img-circle" width="100px" alt="Maya cantagrel">
+        <p>
+        Je suis une éleve de l'ESSEC en premiere année et j'aime la photographie.
+
+        </p>
+        <a href="https://www.instagram.com/mayacantagrel/" class="btn-blue">Découvrez mon site de photo</a>
+      </div>
+          <div class="recherche_p">
+
+<form action="/search" id="searchthis" method="get">
+<input id="search" name="q" type="text" placeholder="Rechercher" />
+<input id="search-btn" type="submit" value="Rechercher" />
+</form>
+</div>
+<div class="card-white">
+  <table style="width:100%">
+
+  <tr>
+    <td><a href="https://www.mayacantagrel.com/about"> Accueil </a>
+ </td>
+
+   
+
+    <td><A href="https://www.un.org/fr/"> ONU</a></td>
+
+        <td>
+<A href="https://en.wikipedia.org/wiki/Dubai"> Dubai </a></A>
+
+        <td><A href="https://www.apiculture.net/?gclid=EAIaIQobChMIq8CJ04mB6AIVh63tCh2kbQeAEAAYASAAEgISvPD_BwE"> Apiculture</a>
+</td>
+
+<td><A href="https://www.manga.club/"> Manga</a>
+</td> 
+  </tr>
+ 
+</table>
+  
+</div>
+      <div class="card-white">
+        <h2>Mes modèles</h2>
+        <p>
+          I am passionate about <strong>Photography</strong>.
+        </p>
+      </div>
+      <div class="card-white">
+        <h2>Ma vie à l'essec</h2>
+        <p>
+          I am passionate about <strong>My friends</strong>.
+        </p>
+      </div>
+      <div class="card-white">
+        <h2>Bees</h2>
+        <p>
+          I am passionate about <strong>bees</strong>.
+        </p>
+      </div>
+
+      <div class="card-white">
+        <h2>Follow me</h2>
+        <ul class="list-inline">
+          <li>
+            <a href="lhttps://www.facebook.com/maya.cantagrel" target="_blank">
+              <i class="fab fa-github-square"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://twitter.com/realDonaldTrump" target="_blank">
+              <i class="fab fa-twitter-square"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/in/maya-cantagrel-9b2b6a19a/" target="_blank">
+               <i class="fab fa-linkedin"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </body>
+</html>
